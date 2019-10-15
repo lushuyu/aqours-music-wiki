@@ -1,0 +1,8 @@
+site_name: Aqours Music Wiki
+
+nav:
+    - Home: index.md
+    - 恋になりたいAQUARIUM: first.md
+    
+theme:
+  name: 'material'
