@@ -1,8 +1,16 @@
 site_name: Aqours Music Wiki
 
 nav:
-    - Home: index.md
-    - 恋になりたいAQUARIUM: first.md
+    - 首页: index.md
+    - 专辑: 
+        - 君のこころは輝いてるかい？: 君のこころは輝いてるかい？(专辑).md
+        - 恋になりたいAQUARIUM: 恋になりたいAQUARIUM(专辑).md
+        - 未体験HORIZON: 未体験HORIZON(专辑).md
+
+    - 歌曲:
+        - 君のこころは輝いてるかい？: 君のこころは輝いてるかい？.md
+        - 恋になりたいAQUARIUM: 恋になりたいAQUARIUM.md
+        - 未体験HORIZON: 未体験HORIZON.md
     
 theme:
   name: 'material'

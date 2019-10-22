@@ -1,0 +1,1 @@
+﻿﻿﻿﻿﻿恋になりたい AQUARIUM是《LoveLive!Sunshine!!》的第二张专辑，于2016年4月27日发售。![](https://img.moegirl.org/common/thumb/c/c1/Koi_ni_i_naritaii_Cover.jpg/375px-Koi_ni_i_naritaii_Cover.jpg)---### 收录曲目：1.	[恋になりたい AQUARIUM](../恋になりたいAQUARIUM)	2.	待ってて愛のうた3.	届かない星だとしても4.	恋になりたいAquarium(Off Vocal)	5.	突撃！風雲マリンパーク		6.	不思議！シーパラダイス発見		7.	ゆったりたっぷり！深海水族館8.	私たちのベストヒットステージ！

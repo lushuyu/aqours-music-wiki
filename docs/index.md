@@ -1,17 +1,1 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+﻿<link rel="stylesheet" href="https://zh.moegirl.org/load.php?debug=false&amp;lang=zh-hans&amp;modules=site.styles&amp;only=styles&amp;skin=vector"># Aqours Music Wiki欢迎来到Aqours Music Wiki！关于这个项目...<span class="heimu" title="你知道的太多了">其实是窝乱搞的丫</span>---### 更新历史 - 2019/10/22　Beta 0.1　更新3个专辑、3首单曲以及封面。
